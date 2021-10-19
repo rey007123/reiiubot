@@ -13,7 +13,7 @@
 <h4 align="center"> DISCLAIMER </p>
 
 ```
-             ⚠️ PERINGATAN UNTUK ANDA ⚠️ ️
+             âš ï¸ PERINGATAN UNTUK ANDA âš ï¸ ï¸
   Rose-Userbot digunakan untuk membantu aktifitas akun anda di telegram
    Kami tidak bertanggung jawab atas apa yang anda salah gunakan pada repository ini
       ! Hati hati dalam penggunaan pada repository ini !
@@ -25,8 +25,8 @@
   <img src="https://telegra.ph/file/e7280f3279dbb306815e3.jpg">
 </p>
 
-<h4 align="center"> ⚠️DEPLOY TO HEROKU⚠️ </p>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rey007123/reiiubot)
+<h4 align="center"> âš ï¸DEPLOY TO HEROKUâš ï¸ </p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SendiAp/Rose-UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-indigo?style=flat&logo=heroku" width="250" height="38.60" /></a></p>
 
 ## String Session :
 
@@ -45,9 +45,9 @@
 </p>
 
 <details>
-  <summary><b>© Credits</b></summary>
+  <summary><b>Â© Credits</b></summary>
 
- 🙏 **THANK YOU VERY MUCH FOR**
+ ðŸ™ **THANK YOU VERY MUCH FOR**
 
 *   [Vckyou](https://github.com/Vckyou/Geez-Project)    Geez - Project
 *   [X_iMFiNe](https://github.com/ximfine/xBot-Remix)    XBOT-REMIX
@@ -56,7 +56,7 @@
 *   [AvinashReddy3108](https://github.com/AvinashReddy3108)    PaperplaneExtended
 *   [TeamUserge](https://github.com/UsergeTeam/Userge)    Userge
 *   [sandy1709](https://github.com/sandy1709/catuserbot)    CatUserbot
-*   DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYA🙏
+*   DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYAðŸ™
 
-## Stay Support 🚀
-❁   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)
+## Stay Support ðŸš€
+â   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)

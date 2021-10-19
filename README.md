@@ -1,25 +1,3 @@
-<h1 align="center"><img src="./resources/extras/geez.gif" width="35px">ROSE-UBOT<img src="./resources/extras/geez.gif" width="35px"></h1>
-
-</p>
-<p align="center">
-    <a href="https://github.com/SendiAp/Rose-Userbot"> <img src="https://img.shields.io/github/repo-size/noob-kittu/YoneRobot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SendiAp/Rose-Userbot/commits"> <img src="https://img.shields.io/github/last-commit/noob-kittu/YoneRobot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SendiAp/Rose-Userbot/issues"> <img src="https://img.shields.io/github/issues/noob-kittu/YoneRobot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/SendiAp/Rose-Userbot/network/members"> <img src="https://img.shields.io/github/forks/noob-kittu/YoneRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://t.me/Rose_Userbot"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<h4 align="center"> DISCLAIMER </p>
-
-```
-             âš ï¸ PERINGATAN UNTUK ANDA âš ï¸ ï¸
-  Rose-Userbot digunakan untuk membantu aktifitas akun anda di telegram
-   Kami tidak bertanggung jawab atas apa yang anda salah gunakan pada repository ini
-      ! Hati hati dalam penggunaan pada repository ini !
-   Jika salah satu member salah gunakan repository ini , kami terpaksa harus meng gban anda 
-  Jangan pernah sekali sekali menyalah gunakan repository ini
-```
 
 <p align="center">
   <img src="https://telegra.ph/file/e7280f3279dbb306815e3.jpg">
@@ -45,18 +23,3 @@
 </p>
 
 <details>
-  <summary><b>Â© Credits</b></summary>
-
- ðŸ™ **THANK YOU VERY MUCH FOR**
-
-*   [Vckyou](https://github.com/Vckyou/Geez-Project)    Geez - Project
-*   [X_iMFiNe](https://github.com/ximfine/xBot-Remix)    XBOT-REMIX
-*   [Koala](https://github.com/ManusiaRakitan/Kampang-Bot)    Kampang - Bot
-*   [RaphielGang](https://github.com/RaphielGang)    Telegram - Paperplane
-*   [AvinashReddy3108](https://github.com/AvinashReddy3108)    PaperplaneExtended
-*   [TeamUserge](https://github.com/UsergeTeam/Userge)    Userge
-*   [sandy1709](https://github.com/sandy1709/catuserbot)    CatUserbot
-*   DAN TERIMAKASIH BANYAK KEPADA USERBOT INDONESIA LAINNYAðŸ™
-
-## Stay Support ðŸš€
-â   [LonamiWebs](https://github.com/LonamiWebs/) and [Telethon](https://github.com/LonamiWebs/Telethon)
